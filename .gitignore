@@ -1,0 +1,3 @@
+# Ignore application logs
+logs/
+*.log
