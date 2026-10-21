@@ -16,3 +16,8 @@ This repository contains my 90-day DevOps learning journey and hands-on practice
 - Connected the repository to GitHub.
 - Pushed the first commit to the main branch.
 - Practiced checking repository status and branch tracking.
+
+## Day 16 - Additional Learning
+
+- Practised git fetch and git pull.
+- Learned to verify local and remote synchronization.
